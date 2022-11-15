@@ -156,10 +156,10 @@
 | 154  | sophisticated investor | 精明投资人 |
 | 155  | qualified acceptance | 有条件承税 |
 | 156  | 上面的单词以入anki |                                                              |
-| 157  |                                  |                                                              |
-| 158  |                                  |                                                              |
-| 159  |                                  |                                                              |
-| 160  |                                  |                                                              |
+| 157  | take on a  new staff | 雇用新职员 |
+| 158  | sales literature | 销售宣传资料 |
+| 159  | set up a meeting | 召开一个会议 |
+| 160  | I am not quite with you. | 我不同意你的观点。 |
 | 161  |                                  |                                                              |
 | 162  |                                  |                                                              |
 | 163  |                                  |                                                              |
